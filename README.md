@@ -1,5 +1,5 @@
 # hub-version-extension
-This is a lightweight Chrome extension that extracts and displays metadata from ArcGIS Hub sites — including:
+This is a lightweight Chrome extension that extracts and displays information from ArcGIS Hub sites — including:
 
 - **Opendata UI version**
 - **Build date**

@@ -8,8 +8,6 @@
   function detectLocale() {
     return (
       document.documentElement.lang ||
-      window.__HUB__?.i18n?.locale ||
-      window.__SITE__?.data?.attributes?.culture ||
       navigator.language ||
       "Unknown"
     );

@@ -19,11 +19,16 @@ The info is displayed in a small overlay when a Hub site is loaded, with a close
 
 ## Installation (Developer Mode)
 
+** For Chrome **
 1. Clone or download this repository.
 2. Open `chrome://extensions` in your browser.
 3. Enable **Developer mode** in the top-right.
 4. Click **Load unpacked** and select the extension folder.
 5. Visit an ArcGIS Hub site and see the overlay appear!
+
+** From Firefox **
+1. Clone or download this repository.
+2. Coming soon!
 
 ## Files
 

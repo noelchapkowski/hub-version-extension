@@ -4,6 +4,8 @@ This is a lightweight Chrome extension that extracts and displays information fr
 - **Opendata UI version**
 - **Build date**
 - **Detected locale**
+- **Site ID**
+- **Site Title**
 
 The info is displayed in a small overlay when a Hub site is loaded, with a close button for convenience.
 
@@ -11,6 +13,7 @@ The info is displayed in a small overlay when a Hub site is loaded, with a close
 
 - Works on any ArcGIS Hub site, including those using custom domains
 - Detects locale from page metadata
+- Grabs the Site ID and Site Title from the public Hub Domains service
 - Auto-injected overlay that doesn't interfere with the page
 - Easy to use, no configuration needed
 
